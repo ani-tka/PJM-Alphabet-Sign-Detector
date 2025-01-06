@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 30 17:22:22 2024
-
-@author: Anita
-"""
-
 import pickle
-
 import cv2
 import mediapipe as mp
 import numpy as np
